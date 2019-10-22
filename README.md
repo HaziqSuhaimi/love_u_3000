@@ -2,5 +2,5 @@
 24hr hackathon NASA Space Apps Challenge 
 
 sweatntears of:
-* Sifu Aiman - https://github.com/shfqmn
-* Mas - sorry i forgot
+* 👦 Sifu Aiman - https://github.com/shfqmn
+* 👩 Mas Aisyah - sorry i forgot
