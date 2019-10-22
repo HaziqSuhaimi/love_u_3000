@@ -44,7 +44,7 @@ dataLoaded = (res) => {
 }
 
 function setup() {
-	frameRate(30);
+	// frameRate(30);
 	createCanvas(windowWidth, windowHeight,WEBGL);
 	leo = createSlider(200,1000, 10);
 	leo.position(20, 20);

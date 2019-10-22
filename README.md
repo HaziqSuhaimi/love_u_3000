@@ -1,5 +1,6 @@
 # love_u_3000
 24hr hackathon NASA Space Apps Challenge 
 
-sweatnblood of:
-https://github.com/shfqmn
+sweatntears of:
+* Sifu Aiman - https://github.com/shfqmn
+* Mas - sorry i forgot
